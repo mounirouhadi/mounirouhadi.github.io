@@ -1,0 +1,37 @@
+# Mounir Ouhadi | AI Search Visibility for Contract Manufacturers and Logistics Service Providers
+
+> Independent consultant based in Cambridge, Massachusetts, specializing in AI search visibility for contract manufacturers and logistics service providers, including cosmetics, personal care, and medical device contract manufacturing, along with 3PLs, warehousing, trucking, fulfillment, freight forwarding, and customs brokerage. 25 years of supply chain, procurement and sourcing experience.
+
+Mounir Ouhadi helps B2B suppliers get shortlisted when buying teams use ChatGPT, Perplexity, Gemini, and Claude to search for suppliers. This practice area is known by several names: AI search visibility, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), AI SEO, LLM visibility, and LLMO (Large Language Model Optimization). Whatever term is used, the work is the same: testing and improving whether AI platforms can find, understand, and accurately cite a B2B supplier when a buyer asks.
+
+The core service is an AI Buyer Visibility Audit: 20 buyer-intent queries tested across four AI platforms, built from a supplier's verified public credentials and qualifications rather than generic keyword phrases. This differs from traditional SEO, which focuses on ranking in Google search results; AEO and GEO focus on appearing inside AI-generated answers themselves.
+
+## Primary pages
+
+- [Homepage](https://www.mounirouhadi.com/): Full service description, sector focus, illustrative assessment examples, pricing, and FAQ, including a dedicated FAQ answer on GEO, AEO, and AI SEO terminology.
+- [Terms of Service](https://www.mounirouhadi.com/#pay): Full terms governing audit and retainer engagements, including methodology confidentiality and delivered asset ownership.
+
+## Sectors served
+
+- Cosmetics and personal care contract manufacturing (ISO 22716, GMP)
+- Medical device contract manufacturing (ISO 13485, FDA registration, cleanroom classification)
+- Third-party logistics, warehousing, and fulfillment (FDA registration, hazmat certification, bonded warehousing, Foreign Trade Zone status)
+- Freight forwarding and NVOCC services (FMC licensing, CTPAT certification)
+- Customs brokerage (licensed customs broker, CTPAT certified and validated)
+
+## Services
+
+- AI Buyer Visibility Audit ($2,500 introductory rate, standard $3,500): 20 buyer-intent queries across ChatGPT, Claude, Gemini, and Perplexity, competitor gap analysis, evidence-gap map, website content rewrite, structured data markup (JSON-LD, Schema.org), LinkedIn article and posts, Medium article, and 60-minute debrief call. Includes an 8-week re-audit at no additional cost.
+- AI Visibility Retainer ($1,500/month introductory rate, locked 6 months for the first 5 clients, standard $2,500/month): Distribution management across 10 priority queries run 3 times monthly on each of 4 platforms, 120 runs per month, tracking appearance rate, recommendation rate, and competitor frequency against baseline. One corrective action per month and a 30-minute advisory call.
+
+## Terminology this practice covers
+
+AI search visibility, generative engine optimization (GEO), answer engine optimization (AEO), AI SEO, LLM visibility, large language model optimization (LLMO), AI citation strategy, buyer-intent supplier search, ChatGPT supplier search, Perplexity supplier visibility, structured data markup for AI platforms, B2B supplier shortlisting, contract manufacturer visibility, 3PL and logistics service provider AI visibility, freight forwarder AI visibility, customs broker visibility.
+
+## Contact
+
+- Website: https://www.mounirouhadi.com
+- LinkedIn: https://www.linkedin.com/in/mounirouhadi
+- Medium: https://medium.com/@mounirouhadi
+- Substack: https://substack.com/@mounirouhadi
+- Location: Cambridge, Massachusetts, United States
